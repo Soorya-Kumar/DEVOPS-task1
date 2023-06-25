@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "==============================" | cat > ./comp_log.txt
 echo "        COMPUTER LOG " | cat >> ./comp_log.txt
 echo "==============================" | cat >> ./comp_log.txt
