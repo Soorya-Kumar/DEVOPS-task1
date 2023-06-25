@@ -1,3 +1,5 @@
+#!/bin/bash
+
 echo "========================" | cat >./system_info.txt
 echo "      SYSTEM INFO" | cat >> ./system_info.txt
 echo "========================" | cat >> ./system_info.txt
