@@ -4,6 +4,7 @@ echo "==============================" | cat >> ./comp_log.txt
 
 
 
+
 upTime=$(uptime -p) # -p is for ease of reading
 echo -e "Uptime: \n $upTime \n" | cat >> ./comp_log.txt
 
