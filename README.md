@@ -1,12 +1,14 @@
 # DEVOPS-task1
 
 IN TERMINAL
+
 #navigate to the file level1p1.sh level1p2.sh level2.sh
 #make them executable using the command chmod +x (filename)
 
 TO EXECUTE THE CRONJOB
 
 crontab -e
+
 #open crontab using the command  
 
 00 18 * * * cd (/path)
