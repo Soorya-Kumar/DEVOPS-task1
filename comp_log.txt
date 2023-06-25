@@ -1,0 +1,52 @@
+==============================
+        COMPUTER LOG 
+==============================
+Uptime: 
+ up 35 minutes 
+
+ Disc usage of computer: 
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           507M  1.7M  505M   1% /run
+/dev/sda3        26G   15G   11G  59% /
+tmpfs           2.6G     0  2.6G   0% /dev/shm
+tmpfs           5.3M  4.1k  5.3M   1% /run/lock
+/dev/sda2       537M  6.4M  531M   2% /boot/efi
+tmpfs           507M  127k  506M   1% /run/user/1000
+/dev/sr0         53M   53M     0 100% /media/soorya-l/VBox_GAs_7.0.4 
+
+
+ CPU usage of Computer:
+ top - 20:43:52 up 35 min,  1 user,  load average: 0.07, 0.47, 0.52
+Tasks: 250 total,   1 running, 249 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.9 us,  3.5 sy,  2.6 ni, 90.4 id,  1.7 wa,  0.0 hi,  0.9 si,  0.0 st
+MiB Mem :   4826.3 total,   2378.6 free,    937.8 used,   1509.9 buff/cache
+MiB Swap:   2680.0 total,   2680.0 free,      0.0 used.   3619.7 avail Mem  
+
+
+ Most expensive processes: 
+     PID TTY          TIME CMD
+   6028 pts/0    00:00:00 bash
+   6114 pts/0    00:00:00 bash
+   6140 pts/0    00:00:00 ps 
+
+
+ Open TCP ports: 
+ State Recv-Q Send-Q Local Address:Port Peer Address:PortProcess 
+
+
+ Current connections: 
+ Active Internet connections (servers and established)
+Proto Recv-Q Send-Q Local Address           Foreign Address         State      
+tcp        0      0 localhost:ipp           0.0.0.0:*               LISTEN     
+tcp        0      0 localhost:domain        0.0.0.0:*               LISTEN     
+tcp        0      0 Ubuntu:46668            123.208.120.34.bc:https TIME_WAIT   
+
+
+ Processes: 
+     PID TTY          TIME CMD
+   6028 pts/0    00:00:00 bash
+   6114 pts/0    00:00:00 bash
+   6158 pts/0    00:00:00 bash
+   6159 pts/0    00:00:00 ps 
+
+==============================
