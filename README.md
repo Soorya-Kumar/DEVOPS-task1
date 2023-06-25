@@ -9,11 +9,17 @@ IN TERMINAL
 
 #make them executable using the command chmod +x (filename)
 
+
+
+
 TO EXECUTE THE CRONJOB
 
-crontab -e    #open crontab using the command  
+crontab -e          #open crontab using the command  
+
 
 00 18 * * * cd (/path)
+
+
 
 #replace the path using the path to the file level1p2.sh
 #the above cmd sets the cronjob to run every day at 6 00 pm
