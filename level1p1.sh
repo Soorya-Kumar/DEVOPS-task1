@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #to create a account for big brother (me)
 sudo useradd -s /bin/bash -m -d /home/ME ME
 
